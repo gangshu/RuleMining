@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects database-driver="oracle.jdbc.driver.OracleDriver"
+	url="jdbc:oracle:thin:@selserver.case.edu:1521:orcl"
+	>
+	
+	<project name="og">
+		<password>chang</password>
+		<threeMonthVersionFolder>C:\project_src\openssl-0.9.8g_3m</threeMonthVersionFolder>
+		<curentVersionFolder>C:\project_src\openssl-0.9.8g</curentVersionFolder>
+	</project>
+	
+	<project name="apache_boya">
+		<password>chang</password>
+		<threeMonthVersionFolder>C:\project_src\httpd-2.2.8_3m</threeMonthVersionFolder>
+		<curentVersionFolder>C:\project_src\httpd-2.2.8</curentVersionFolder>		
+	</project>
+	
+	<project name="snmp">
+		<password>chang</password>
+		<threeMonthVersionFolder>C:\project_src\snmp-5.3.2_3m</threeMonthVersionFolder>
+		<curentVersionFolder>C:\project_src\snmp-5.3.2</curentVersionFolder>		
+	</project>
+	
+	<project name="python_2_5_2">
+		<password>brian</password>
+		<threeMonthVersionFolder>C:\project_src\Python-2.5.2_3m</threeMonthVersionFolder>
+		<curentVersionFolder>C:\project_src\Python-2.5.2</curentVersionFolder>		
+	</project>
+	<project name="abb_cir_pgmld">
+		<password>andypodgurski</password></project>
+	<project name="abb_cir_cirld_5_11">
+		<password>andypodgurski</password></project>
+	<project name="abb_cir_cirld_5_10">
+		<password>andypodgurski</password></project>
+	<project name="ac800m">
+		<password>andypodgurski</password></project>
+</projects>

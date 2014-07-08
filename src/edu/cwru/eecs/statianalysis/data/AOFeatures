@@ -1,0 +1,9 @@
+variable
+array
+float
+integer
+pointer
+routine-type
+struct
+union
+void
